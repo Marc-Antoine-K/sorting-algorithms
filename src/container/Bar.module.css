@@ -1,0 +1,9 @@
+.Bar{
+    box-sizing: border-box;
+    margin: 2px;
+    border-style: solid;
+    border-width: medium;
+    border-color: blue;
+    width: 2px;
+    display: inline-block;
+}
