@@ -5,7 +5,6 @@ import Wrapper2 from './container/Wrapper2';
 
 function App() {
   return (
-    //<Wrapper />
     <Wrapper2 />
   );
 }
