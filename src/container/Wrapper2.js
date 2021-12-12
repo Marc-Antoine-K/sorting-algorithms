@@ -130,6 +130,11 @@ const Wrapper2 = () => {
       setNumberList((numberList) => [...tab]);
     }
     //await new Promise((resolve) => setTimeout(resolve, 1000));
+    setSort({...sort,
+      sort: "Merge sort",
+      complexity: "O(Nlog(N))",
+      inPlace: "No",
+    });
   };
 
   let mergeSort = async (tab, aux, left, right) => {
