@@ -1,0 +1,6 @@
+node_modules
+#ignote the test files
+t.js
+t2.js
+t3.js
+t4.js
